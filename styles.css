@@ -16,6 +16,26 @@ body {
   text-shadow: 5px 0 #232931;
 }
 
+.btn {
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+}
+
+button {
+  margin: auto;
+  background-color: #4ecca3;
+  size: 2rem;
+  border: none;
+  border-radius: 2px;
+  display: inline-block;
+  color: #232931;
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 30px;
+}
+
 .dice {
   text-align: center;
   display: inline-block;
@@ -35,6 +55,6 @@ footer {
   color: white;
   font-family: "Indie Flower", cursive;
   text-align: center;
-  margin-top: 5%;
+  margin-top: 2%;
   font-size: 1.2rem;
 }
